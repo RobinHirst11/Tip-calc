@@ -12,13 +12,13 @@ This is a simple tip calculator implemented in Python. It allows users to input 
 1. Clone the repository to your local machine:
 
     ```bash
-    git clone https://github.com/RobinHirst11/Tip-calc/
+    git clone https://github.com/RobinHirst11/tip-calculator/
     ```
 
 2. Navigate to the project directory:
 
     ```bash
-    cd Tip-calc
+    cd tip-calculator
     ```
 
 3. Run the Python script:
