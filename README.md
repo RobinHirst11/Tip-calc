@@ -12,7 +12,7 @@ This is a simple tip calculator implemented in Python. It allows users to input 
 1. Clone the repository to your local machine:
 
     ```bash
-    git clone https://github.com/yourusername/tip-calculator.git
+    git clone https://github.com/RobinHirst11/tip-calculator.git
     ```
 
 2. Navigate to the project directory:
